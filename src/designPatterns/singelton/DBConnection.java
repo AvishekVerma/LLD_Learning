@@ -1,3 +1,5 @@
+package designPatterns.singelton;
+
 public class DBConnection {
     private static DBConnection db = null;
 
